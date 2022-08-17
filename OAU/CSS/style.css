@@ -1,0 +1,41 @@
+body{
+    background-color: antiquewhite;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: large;
+}
+header{
+    text-align: center;
+    margin-top: 80px;
+    background-color: green;
+    color: white;
+    padding: 50px 30px;
+}
+
+.animal{
+    border-style: solid;
+    width: 50%;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    text-align: center;
+    padding: 70px;
+    border-color: green;
+    border-width: 10px;
+}
+.inaugural{
+    margin-left: 50%;
+}
+.inaugural h3{
+    margin-left: 12%;
+}
+.box{
+    border-style: solid;
+    color: green;
+    width: 1090px;
+}
+.oau{
+    margin-left: 6vh;
+}
+.box h4{
+    margin-top: -8vh;
+}
